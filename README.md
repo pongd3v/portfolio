@@ -3,6 +3,12 @@
 <p><b>A light weight , responsive portfolio theme by <a href="https://instagram.com/pongdev">Ankit</a></b></p>
 
 
+## Preview
+
+<h5>For preview <a href="https://pongd3v.github.io/portfolio/">click here</a></b></p></h5>
+
+
+
 ## Steps:
 
 
