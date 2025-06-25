@@ -4,8 +4,7 @@
 
 
 ## Preview
-
-<h5>For preview <a href="https://pongd3v.github.io/portfolio/">click here</a></b></p></h5>
+[![Screenshot](https://i.ibb.co/tM7c04w3/image.jpg)](https://pongd3v.github.io/portfolio/)
 
 
 
